@@ -1,0 +1,3 @@
+Gene,n_patients_mutated,frequency,Tier,kept
+BRAF,290,0.5930470347648262,known,True
+NRAS,39,0.07975460122699386,known,True

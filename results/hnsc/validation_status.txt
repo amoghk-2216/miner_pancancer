@@ -1,0 +1,1 @@
+externally validated in GSE65858: co-expression and survival (paper's rule, criteria 1-5)

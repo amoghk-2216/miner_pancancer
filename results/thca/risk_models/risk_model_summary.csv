@@ -1,0 +1,4 @@
+model,k,alpha,TCGA_test_C (final split),TCGA_test_C mean±sd,independent_cohort
+gene,1000,50.0,0.5283783783783784,0.602 ± 0.102,none (not externally validated)
+regulon,9292,5000.0,0.6337837837837837,0.591 ± 0.084,none (not externally validated)
+program,25,0.1,0.5756756756756757,0.577 ± 0.090,none (not externally validated)

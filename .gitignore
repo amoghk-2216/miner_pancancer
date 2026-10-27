@@ -1,0 +1,18 @@
+# Python / Jupyter / OS
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+
+# never commit input data or caches if they end up inside the repository
+*.maf
+*.maf.gz
+*.pkl
+*.soft
+*.soft.gz
+*.gaf
+*.gaf.gz
+*.obo
+*_data/
